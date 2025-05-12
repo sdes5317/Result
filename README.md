@@ -6,3 +6,6 @@
 5. Add domain to main project's http host and client.
 6. Implemented domain's application and interface, enable main host project's.
    ```options.ConventionalControllers.Create(typeof(ResultApplicationModule).Assembly);```
+---
+7. Updated .Net version to .NET8
+8. Updated AutoMapper to 14.0.0 to fix .NET8 error.
